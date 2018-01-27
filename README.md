@@ -1,4 +1,3 @@
-# Udacity Self-Driving Car Engineer Nanodegree
 ## Traffic Sign Recognition using Deep Learning
 
 ### Overview
@@ -28,4 +27,4 @@ This project uses the German Traffic Sign Dataset. A pickled version that has im
 
 You can step through the Jupyter Notebook at `Traffic_Sign_Classifier.ipynb`, or you can read the HTML export of the notebook at `Traffic_Sign_Classifier.html`.
 
-The model has been trained and test on Amazon AWS EC2 Service.
+The model has been trained and tested on Amazon AWS EC2 Service.
